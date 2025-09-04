@@ -1,4 +1,4 @@
-CONUS Streamflow with CAMELS — LSTM for Gauged & Pseudo-Ungauged Basins
+**CONUS Streamflow with CAMELS — LSTM for Gauged & Pseudo-Ungauged Basins**
 
 Daily streamflow forecasting across 531 CONUS basins with an LSTM that generalizes to pseudo-ungauged sites. Built with PyTorch + NeuralHydrology and trained on UAHPC GPUs.
 
